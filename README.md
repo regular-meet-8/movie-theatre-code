@@ -14,4 +14,4 @@ For this program you do not need to install anything.
  For this to run....use the following path on your browser to access the app(file:///home/edson/movie-theatre-code/index.html)
 
 # Authors
-By Edson Kimotho (https://https://WWW.github.com/regular-meet-8)#
+By Edson Kimotho (https://github.com/regular-meet-8/movie-theatre-code.git)
