@@ -1,0 +1,23 @@
+{
+  "name": "movie-theatre-code",
+  "version": "1.0.0",
+  "description": "mini ticketweb-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular-meet-8/movie-theatre-code.git"
+  },
+  "keywords": [
+    "[Movie",
+    "Theatre]"
+  ],
+  "author": "Edson Kimotho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regular-meet-8/movie-theatre-code/issues"
+  },
+  "homepage": "https://github.com/regular-meet-8/movie-theatre-code#readme"
+}
