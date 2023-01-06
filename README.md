@@ -11,7 +11,7 @@ This is a program that diplays a list of films and when clicked on one of them i
 For this program you do not need to install anything.
 
 # running the program
- For this to run....use the following path on your browser to access the app(https://serene-kulfi-287800.netlify.app/)
+ For this to run....use the following path on your browser to access the website(https://chipper-gumption-782f42.netlify.app/)
 
 # Authors
 By Edson Kimotho (https://github.com/regular-meet-8)
